@@ -1,10 +1,12 @@
 # Обо мне (About me) 👨‍💻
 
 ### Опыт работы (Work experience):
+
 - 🖥💻📱 фронтенд-разработчик платформы B2B торговли для малого и среднего бизнеса «Softbox CPS» ([`GitHub`-ссылка]() и [основной домен (в разработке)](https://softbox-retailing.ru/)) (frontend developer of the B2B trading platform for small and medium-sized businesses — «Softbox CPS»);
 - 🖥💻📱 фронтенд-разработчик веб-сайта оптового склада товаров для бизнеса «DM-Trade» ([`GitHub`-ссылка](https://starostinlf.github.io/dm-trade/#/) и [основной домен](https://dm-trade.pro/)) (frontend developer of the B2B wholesale trading platform for business — «DM-Trade»).
 
 ### Достижения (Achievements):
+
 - 👨‍🎓 выпускник [`РТУ МИРЭА`](https://www.mirea.ru/)(RTU MIREA graduate student);
 - 👨‍🎓 выпускник [`Яндекс Практикума`](https://practicum.yandex.ru/) (Yandex Practicum graduate student);
 - 🥉 участник с 77 местом в общем рейтинге [`олимпиады по фронтенду от ИТМО, Яндекса и HTML Academy`](https://htmlacademy.ru/olympics?ysclid=m3q9jjcqnt345914114) (participant with 77th place in the overall ranking Frontend Olympiad from ITMO, Yandex and HTML Academy).
