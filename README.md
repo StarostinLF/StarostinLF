@@ -7,7 +7,7 @@
 
 ### Достижения (Achievements):
 
-- 👨‍🎓 выпускник [`РТУ МИРЭА`](https://www.mirea.ru/)(RTU MIREA graduate student);
+- 👨‍🎓 студент [`РТУ МИРЭА`](https://www.mirea.ru/)(RTU MIREA student);
 - 👨‍🎓 выпускник [`Яндекс Практикума`](https://practicum.yandex.ru/) (Yandex Practicum graduate student);
 - 🥉 участник с 77 местом в общем рейтинге [`олимпиады по фронтенду от ИТМО, Яндекса и HTML Academy`](https://htmlacademy.ru/olympics?ysclid=m3q9jjcqnt345914114) (participant with 77th place in the overall ranking Frontend Olympiad from ITMO, Yandex and HTML Academy).
 
