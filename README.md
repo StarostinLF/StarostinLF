@@ -15,4 +15,10 @@
 
 ## Опыт работы
 
-- [Коммерческий проект] Разработал фронтенд оптового склада товаров для бизнеса на `React.js` + `TS` + `Redux` ([ссылка на рабочий сайт](https://dm-trade.pro))
+- [Коммерческий проект] Разработал с нуля фронтенд оптового склада товаров для бизнеса на `Next.js` + `TS` + `Tailwind CSS` ([ссылка на сайт](https://dm-trade.pro))
+- [Учебная практика] Разработал фронтенд прототипа системы коллективных закупок для малого и среднего бизнеса в [Мастерской Яндекс Практикума](https://practicum.yandex.ru/masterskaya) на стеке `React.js` + `TS` + `SCSS` + `Redux Toolkit` ([ссылка на сайт](https://softbox-cps.vercel.app))
+- [Производственная практика] Разработал фронтенд прототипа сайта путешествий на Ибице в [panfilov.digital](https://panfilov.digital) на `Nuxt` + `TS` + `Tailwind CSS` ([ссылка на репозиторий](https://github.com/StarostinLF/ibiza-ru/tree/prototype))
+
+## Резюме
+
+[Ссылка на резюме](https://hh.ru/resume/7f044e3dff0c3383320039ed1f6f7051624347?hhtmFrom=resume_list) (hh.ru)
