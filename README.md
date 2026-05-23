@@ -1,39 +1,38 @@
 # Обо мне
 
-Frontend React разработчик с коммерческим опытом работы.
+**Имя**: Старостин Леонид
 
-Образование:
+**Профессия**: Frontend-разработчик с проектным коммерческим опытом разработки на `React`, `TypeScript` и `Next.js`. Развиваюсь в направлении Fullstack-разработки: имею базовые знания `Node.js`, `PostgreSQL` и `CI/CD`.
 
-- Студент (магистр) НИУ ИТМО по направлению «Фронтенд и Бэкенд разработка» (дистанционное обучение)
-- Выпускник (бакалавр) РТУ МИРЭА по специальности «09.03.02 Информационные системы и технологии»
-- Выпускник Яндекс Практикума (курс «Фронтенд разработчик»)
+## Контакты
 
-## Основной стек
+- Город: Москва
+- Telegram: [@StarostinLF](https://t.me/StarostinLF)
+- Email: [starostinlf@mail.ru](mailto:starostinlf@mail.ru)
+- Телефон: +7 977 954-68-81
+- GitHub: [StarostinLF](https://github.com/StarostinLF)
 
-- Next.js
-- TypeScript
-- SCSS, Tailwind CSS
-- Postman
-- GitHub
+## Образование
 
-## Все навыки
+- Студент (магистрант) **НИУ ИТМО** по направлению «Фронтенд и Бэкенд разработка» (2025–2027)
+- Выпускник (бакалавр) **РТУ МИРЭА** по специальности «Информационные системы и технологии» (2021–2025)
+- Выпускник **Яндекс Практикума** (курс «Фронтенд разработчик», 2024)
 
-- HTML
-- CSS, SCSS, Tailwind CSS
-- JavaScript, TypeScript
-- React, Next.js
-- Redux, Redux Toolkit
-- Vue, Nuxt
-- Jest, Cypress
-- Swagger, Postman
-- Git, GitHub, GitLab
-- Figma
+## Навыки
+
+- **Фронтенд**: `HTML`/`CSS`, `SCSS`/`Sass`, `Tailwind CSS`, `Framer Motion`, `Figma`, `JavaScript`/`TypeScript`, `React`/`Next.js`, `Redux`, `React Router`
+- **Бекенд/Базы данных**: `Node.js`, `PostgreSQL`, `Prisma`
+- **API**: `REST`, `Swagger`, `Postman`
+- **Тестирование**: `Jest`/`Cypress`
+- **Инфраструктура**: `Vite`/`Webpack`, `Git`, `Docker`, `CI/CD`
 
 ## Учебные проекты
 
 ### React
 
+- Веб-приложение управления ежедневным бюджетом [«Калькулятор расходов»](https://github.com/StarostinLF/higher-web-practice-calculator)
 - Адаптивный многостраничный лендинг кофейни [«Такт-кофе»](https://github.com/StarostinLF/higher-web-practice-coffee)
+- Прототип B2B-системы коллективных закупок для малого и среднего бизнеса [«Softbox CPS»](https://softbox-cps.vercel.app/) (проектная и дипломная работа, NDA)
 - Веб-приложение космической бургерной [«Stellar Burgers»](https://github.com/StarostinLF/stellar-burgers)
 - Веб-приложение [«Custom dropdown» (Blog Customizer)](https://github.com/StarostinLF/blog-customizer) кастомизации стилей текста
 - Веб-приложение [«Mesto»](https://github.com/StarostinLF/mesto-project-ff), позволяющее пользователям делиться фотографиями, ставить и удалять лайки
@@ -42,18 +41,29 @@ Frontend React разработчик с коммерческим опытом �
 - Веб-приложение [«Посмотри в окно»](https://github.com/StarostinLF/posmotri_v_okno) для просмотра коротких видео
 - Лендинг аукциона вещей [«Оно тебе надо»](https://github.com/StarostinLF/ono-tebe-nado), в которые никто не верил
 
-### Vue / Nuxt:
-- Лендинг путешествий на Ибице [«ibiza-ru»](https://github.com/StarostinLF/ibiza-ru/tree/prototype)
+## Коммерческий опыт работы
 
-## Коммерческие проекты
+### «ДМ-Трейд» — B2B-платформа для оптового склада (Август 2024 — Август 2025)
 
-- Разработка интернет-магазина для оптового склада «DM-Trade»: [сайт](https://dm-trade.pro)
-- Разработка лендинга адвокатских услуг для адвокатского кабинета № 77/3-4969 Адвокатской палаты Москвы: [сайт](https://advokat-starostin.ru)
+**Должность**: Frontend-разработчик, проектная работа (фриланс)
 
-P.S. коммерческие проекты в портфолио не включены по условиям NDA. Более подробно опыт работы описан в резюме.
+- Разработал с нуля интерфейс B2B-платформы: страницы каталога, карточки товаров, фильтрацию
+- Мигрировал проект с `Webpack` на `Next.js` + `Tailwind CSS` для улучшения SEO
+- Настроил CI/CD-деплой в Docker-контейнер через GitLab
+- Интегрировал REST API во Frontend
+- **Интерфейс платформы**: [dm-trade.pro](https://dm-trade.pro)
+
+### Адвокатский кабинет (Декабрь 2025 — Февраль 2026)
+
+**Должность**: Веб-разработчик, проектная работа (фриланс)
+
+- Разработал адаптивный лендинг юридических услуг на `Next.js` с анимациями на `Framer Motion`
+- Настроил SSG, SEO-оптимизацию, мета-теги, sitemap/robots
+- Обеспечил индексацию сайта в Яндексе/Google
+- **Сайт**: [advokat-starostin.ru](https://advokat-starostin.ru)
 
 ## Доп. информация
 
-1. [Ссылка на резюме](https://hh.ru/resume/b84dfbd2ff0feb870e0039ed1f645330656e49)
+1. [Ссылка на резюме](https://docs.google.com/document/d/1L9vY8nWrVKgdZT-gyd_CI3jIJQXPi2vEWuAn8xNTCFY/edit?usp=sharing)
 2. [Диплом РТУ МИРЭА](https://disk.yandex.ru/i/N4LHQ1yE4Fwa1g)
 3. [Диплом Яндекс Практикума](https://disk.yandex.ru/i/ReDHXjcqWKhsuQ)
