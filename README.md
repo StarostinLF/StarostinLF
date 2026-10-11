@@ -73,7 +73,4 @@
 
 - Языки: русский — родной, английский — B1
 - Предпочитаемая занятость: 40 часов в неделю, гибрид в Москве или удалённо
-
-1. [Ссылка на резюме](https://docs.google.com/document/d/1UEsXGsOtjqjB5M0p_LyBPvXbVRuJDgpy4m9_YKJUqzM/edit?usp=sharing)
-2. [Диплом РТУ МИРЭА](https://disk.yandex.ru/i/N4LHQ1yE4Fwa1g)
-3. [Диплом Яндекс Практикума](https://disk.yandex.ru/i/ReDHXjcqWKhsuQ)
+- [Ссылка на резюме](https://docs.google.com/document/d/1UEsXGsOtjqjB5M0p_LyBPvXbVRuJDgpy4m9_YKJUqzM/edit?usp=sharing)
